@@ -10,3 +10,4 @@ Created for Hermes Agent.
 
 ### Example in Hermes Agent:
 ![Example usage in Hermes Agent](./images/image.png)
+![Generating a revenue graph with Hermes Agent](./images/graph-prompt.png)
